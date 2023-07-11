@@ -1,0 +1,18 @@
+.search {
+    text-align: center;
+    padding: 1rem;
+}
+  
+.input {
+    padding: .7rem 1.5rem;
+    color:aliceblue;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.2);
+}
+  
+::placeholder {
+    color: azure;
+}
